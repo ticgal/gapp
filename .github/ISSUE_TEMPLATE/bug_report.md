@@ -1,3 +1,5 @@
+RTFM before opening an issue (Friendly reminder :)): https://tic.gal/gapp/
+If you have not find a solution please add the information below.
 ---
 name: Bug report
 about: Create a report to help us improve
