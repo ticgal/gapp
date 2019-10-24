@@ -4,7 +4,9 @@ about: Create a report to help us improve
 title: ''
 labels: bug
 assignees: ''
+
 ---
+
 RTFM before opening an issue (Friendly reminder :)): https://tic.gal/gapp/
 If you have not find a solution please add the information below.
 ---
