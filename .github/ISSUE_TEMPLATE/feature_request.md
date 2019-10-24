@@ -7,8 +7,8 @@ assignees: OscarBeiro
 
 ---
 
-**Sponsor**
-If you are willing to sponsor this feature, please contact us at https://tic.gal/
+**Sponsor a feature**
+If you are willing to sponsor a feature, or would like a custom one contact us at https://tic.gal/, otherwise please fill in the requested information
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
