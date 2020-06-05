@@ -34,6 +34,10 @@ If applicable, add screenshots to help explain your problem.
 **Your GLPI server**
  - GLPI Version:
  - Installed plugins:
+ 
+**GAT X report**
+Please download: [GAT X](https://tic.gal/en/project/gat/) 
+Attach generated file
 
 **Additional context**
 Add any other context about the problem here.
