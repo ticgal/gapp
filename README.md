@@ -3,7 +3,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-TICgal-blue.svg?style=flat-square)](https://twitter.com/ticgalcom)
 [![Web](https://img.shields.io/badge/Web-TICgal-blue.svg?style=flat-square)](https://tic.gal/)
-[![Translate](https://hosted.weblate.org/widgets/gapp/-/gapp-selfservice/svg-badge.svg)](https://hosted.weblate.org/engage/gapp/?utm_source=widget)
+[![Localazy](https://img.shields.io/badge/Translate-Localazy-cyan)](https://localazy.com/p/gapp-multiplatform)
 
 **A GLPI Self-service mobile client.**
 
