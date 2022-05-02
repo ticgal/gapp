@@ -3,8 +3,8 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: bug
-assignees: ''
-
+**Gapp version: **
+**GLPI version: **
 ---
 
 RTFM before opening an issue (Friendly reminder :)): https://tic.gal/gapp/
