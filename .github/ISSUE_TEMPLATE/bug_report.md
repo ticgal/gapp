@@ -10,6 +10,9 @@ labels: bug
 RTFM before opening an issue (Friendly reminder :)): https://tic.gal/gapp/
 If you have not find a solution please add the information below.
 ---
+**Affected versions**
+Gapp version:
+GLPI version:
 
 **Describe the bug**
 
