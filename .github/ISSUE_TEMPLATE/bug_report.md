@@ -3,8 +3,9 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: bug
-**Gapp version: **
+**Gapp Self-service version: **
 **GLPI version: **
+**Gapp Essentials version: 
 ---
 
 RTFM before opening an issue (Friendly reminder :)): https://tic.gal/gapp/
@@ -13,6 +14,7 @@ If you have not find a solution please add the information below.
 **Affected versions**
 Gapp version:
 GLPI version:
+Gapp Essentials version:
 
 **Describe the bug**
 
@@ -39,11 +41,6 @@ If applicable, add screenshots to help explain your problem.
  - Device: [e.g. Huawei P2o]
  - OS: [e.g. 9.1 ] (If you're not sure [check here](https://support.google.com/android/answer/7680439?hl=en ))
 
-**Your GLPI server**
-
- - GLPI Version:
- - Installed plugins:
- 
 **GAT X report**
 
 Please download: [GAT X](https://tic.gal/en/project/gat/) 
