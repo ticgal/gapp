@@ -5,16 +5,16 @@ title: ''
 labels: bug
 **Gapp Self-service version: **
 **GLPI version: **
-**Gapp Essentials version: 
+**Gapp Essentials version: **
 ---
 
 RTFM before opening an issue (Friendly reminder :)): https://tic.gal/gapp/
 If you have not find a solution please add the information below.
 ---
 **Affected versions**
-Gapp version:
-GLPI version:
-Gapp Essentials version:
+- Gapp version:
+- GLPI version:
+- Gapp Essentials version:
 
 **Describe the bug**
 
@@ -38,13 +38,9 @@ If applicable, add screenshots to help explain your problem.
 
 **Smartphone (please complete the following information):**
 
- - Device: [e.g. Huawei P2o]
+ - Device: [e.g. Huawei P20]
  - OS: [e.g. 9.1 ] (If you're not sure [check here](https://support.google.com/android/answer/7680439?hl=en ))
 
-**GAT X report**
-
-Please download: [GAT X](https://tic.gal/en/project/gat/) 
-Attach generated file
 
 **Additional context**
 
